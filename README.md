@@ -1,1 +1,1 @@
-[![Hi, I'm Dmitry Ivanov! Nice to meet you! I'm a Software Engineer, Laravel Developer, Open-Source Developer, Problem Solver, and Constant Learner.](https://github.com/dmitry-ivanov/dmitry-ivanov/raw/master/dmitry-ivanov.gif)](https://dmitry-ivanov.com)
+[![Dmitry Ivanov - Senior Software Engineer • System Design • Complex Systems • Performance • AI](https://github.com/dmitry-ivanov/dmitry-ivanov/raw/master/dmitry-ivanov.gif)](https://dmitry-ivanov.com)
